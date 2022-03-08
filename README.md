@@ -1,4 +1,4 @@
-# Loki-Serial-Intro-Anim3
+# Loki-Serial-Intro-Anim
 
 ## Loki serial intro
 
