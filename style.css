@@ -17,37 +17,11 @@
     text-align: center;
     color: rgb(255, 174, 23);
     overflow: hidden;
-    /* background: black; */
 }
 
 .box span {
     font-size: 200px;
     letter-spacing: 20px;
-}
-
-.box p span {
-    color: white;
-    letter-spacing: -1px;
-}
-
-.box p {
-    position: absolute;
-    top: 10%;
-    color: white;
-    text-transform: uppercase;
-}
-
-.box p a {
-    text-decoration: none;
-    color: white;
-}
-
-.box p a:hover {
-    color: rgb(231, 176, 23);
-}
-
-.box p span, .box p a {
-    font-size: 45px;
 }
 
 #letter1 {
@@ -252,11 +226,7 @@
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .box span {
-        font-size: 95px;
+        font-size: 75px;
         letter-spacing: 10px;
-    }
-
-    .box p span, .box p a {
-        font-size: 30px;
     }
 }
